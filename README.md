@@ -1,6 +1,6 @@
-# Digital IC Design Homework
+# Digital IC Design
 
-## DIC HW5 - Color Transform Engine
+## Color Transform Engine
 
 ## AUTHORS
 [Yu-Tong Shen](https://github.com/yutongshen/)
